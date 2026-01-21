@@ -20,7 +20,7 @@ A retail company wants to understand **how customers shop**, what influences **p
 ### 🧠 Core Business Question:
 > **How can the company leverage customer shopping data to identify trends, improve customer engagement, and optimize marketing and product strategies?**
 
----
+
 
 ## 🔄 Project Workflow
 
@@ -34,7 +34,7 @@ A retail company wants to understand **how customers shop**, what influences **p
 6️⃣ Stakeholder Presentation using **Gamma AI**  
 7️⃣ Project Publishing & Version Control **(GitHub)**  
 
----
+
 
 ## 🛠️ Tools & Technologies Used
 
