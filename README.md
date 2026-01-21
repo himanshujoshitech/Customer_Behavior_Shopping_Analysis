@@ -120,7 +120,8 @@ LIMIT 5;
 
 Identifies the highest-rated products based on customer feedback.
 
-📁 **SQL Queries File:** `Sql_Code.sql`
+📁 **SQL Queries File:** [`Sql_Code.sql`](Sql_Code.sql)
+
 
 ---
 
@@ -139,7 +140,8 @@ An interactive **Power BI dashboard** was created to visualize key KPIs and unco
 - Revenue and sales distribution across age groups  
 - Impact of discounts and promotions on purchases  
 
-📁 **Dashboard File:** `Power_BI_Dashboard.pbix`
+📁 **Dashboard File:** [`Power_BI_Dashboard.pbix`](Power_BI_Dashboard.pbix)
+
 
 ---
 
