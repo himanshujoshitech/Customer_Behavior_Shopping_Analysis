@@ -99,3 +99,75 @@ GROUP BY item_purchased
 ORDER BY average_review_rating DESC
 LIMIT 5;
 
+
+### ✅ Insight
+
+Identifies the highest-rated products based on customer feedback.
+
+📁 **SQL Queries File:** `Sql_Code.sql`
+
+---
+
+## 📈 Power BI Dashboard
+
+An interactive **Power BI dashboard** was created to visualize key KPIs and uncover meaningful business patterns.
+
+### 📌 Key Metrics
+- **Total Customers:** 3.9K  
+- **Average Purchase Amount**  
+- **Average Review Rating**
+
+### 📊 Dashboard Insights
+- Revenue and sales by product category  
+- Subscription vs non-subscription customer comparison  
+- Revenue and sales distribution across age groups  
+- Impact of discounts and promotions on purchases  
+
+📁 **Dashboard File:** `Power_BI_Dashboard.pbix`
+
+---
+
+## 📑 Report & Presentation
+
+### 📄 Project Report (PDF)
+A detailed report covering:
+- Analysis methodology  
+- Key insights  
+- Business recommendations  
+
+### 🤖 Presentation using Gamma AI
+A professional, AI-powered presentation created using **Gamma AI**, designed to communicate insights and actionable recommendations effectively to stakeholders.
+
+These deliverables ensure that **technical findings are translated into clear business value**.
+
+---
+
+## 🧠 Key Skills Demonstrated
+
+- End-to-end **data analysis workflow**
+- Data cleaning and feature engineering using **Pandas**
+- Writing **business-driven SQL queries**
+- Database connectivity using **SQLAlchemy**
+- Dashboard design and storytelling using **Power BI**
+- Professional reporting and **AI-assisted presentation creation**
+- Structuring analytics projects for **GitHub portfolios**
+
+---
+
+## ✅ Conclusion
+
+This project demonstrates a **real-world Data Analyst workflow**, combining **Python, SQL, BI tools, and AI** to solve business problems.
+
+It is suitable for:
+- 📊 Data Analyst portfolios  
+- 💼 Interview discussions  
+- 📚 Learning end-to-end analytics projects  
+
+---
+
+## 📬 Connect With Me
+
+If you have feedback, questions, or collaboration ideas, feel free to explore my **GitHub** or connect on **LinkedIn**.
+
+⭐ *If you found this project helpful, consider giving it a star!* ⭐
+
