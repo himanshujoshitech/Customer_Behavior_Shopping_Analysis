@@ -1,7 +1,5 @@
 # 🛍️ Customer Shopping Behavior Analysis – End-to-End Data Analytics Project
 
-
-
 ---
 
 ## 🌟 Overview
