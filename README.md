@@ -1,6 +1,6 @@
 # 🛍️ Customer Shopping Behavior Analysis – End-to-End Data Analytics Project
 
-![Project Workflow](https://github.com/himanshujoshitech/Customer_Behavior_Shopping_Analysis/blob/main/Power_BI_Dashboard_Screenshot.png)
+
 
 ---
 
@@ -126,6 +126,7 @@ Identifies the highest-rated products based on customer feedback.
 ---
 
 ## 📈 Power BI Dashboard
+![Power BI Dashboard](https://github.com/himanshujoshitech/Customer_Behavior_Shopping_Analysis/blob/main/Power_BI_Dashboard_Screenshot.png)
 
 An interactive **Power BI dashboard** was created to visualize key KPIs and uncover meaningful business patterns.
 
