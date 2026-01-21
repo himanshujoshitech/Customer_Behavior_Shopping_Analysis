@@ -98,7 +98,7 @@ FROM customer
 GROUP BY item_purchased
 ORDER BY average_review_rating DESC
 LIMIT 5;
-
+```
 
 ### ✅ Insight
 
