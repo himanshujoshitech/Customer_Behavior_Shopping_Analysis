@@ -131,8 +131,8 @@ An interactive **Power BI dashboard** was created to visualize key KPIs and unco
 
 ### 📌 Key Metrics
 - **Total Customers:** 3.9K  
-- **Average Purchase Amount**  
-- **Average Review Rating**
+- **Average Purchase Amount:** $59.76 
+- **Average Review Rating:** 3.75
 
 ### 📊 Dashboard Insights
 - Revenue and sales by product category  
