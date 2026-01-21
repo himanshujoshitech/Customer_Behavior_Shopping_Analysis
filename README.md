@@ -20,21 +20,36 @@ A retail company wants to understand **how customers shop**, what influences **p
 ### 🧠 Core Business Question:
 > **How can the company leverage customer shopping data to identify trends, improve customer engagement, and optimize marketing and product strategies?**
 
-
+---
 
 ## 🔄 Project Workflow
 
 ![Project Workflow](Screenshot%20(21).png)
 
-1️⃣ Business Problem Understanding 
-2️⃣ Data Cleaning & Feature Engineering **(Python – Pandas)**  
-3️⃣ Data Storage & Business Analysis **(PostgreSQL – SQL)**  
-4️⃣ Interactive Dashboard Creation **(Power BI)**  
-5️⃣ Insight Generation & Report Writing **(PDF)**  
-6️⃣ Stakeholder Presentation using **Gamma AI**  
-7️⃣ Project Publishing & Version Control **(GitHub)**  
+The project follows a structured **end-to-end analytics workflow**, ensuring clarity from problem understanding to final delivery:
 
+1️⃣ **Business Problem Understanding**  
+   Define business objectives and identify key analytical questions.
 
+2️⃣ **Data Cleaning & Feature Engineering (Python – Pandas)**  
+   Prepare raw data through cleaning, transformation, and feature creation.
+
+3️⃣ **Data Storage & Business Analysis (PostgreSQL – SQL)**  
+   Load processed data into PostgreSQL and perform business-driven analysis.
+
+4️⃣ **Interactive Dashboard Creation (Power BI)**  
+   Design dashboards to visualize KPIs and uncover trends.
+
+5️⃣ **Insight Generation & Report Writing (PDF)**  
+   Summarize findings and convert insights into business recommendations.
+
+6️⃣ **Stakeholder Presentation (Gamma AI)**  
+   Communicate insights using AI-powered storytelling for decision-makers.
+
+7️⃣ **Project Publishing & Version Control (GitHub)**  
+   Organize and publish the project for collaboration and portfolio use.
+
+---
 
 ## 🛠️ Tools & Technologies Used
 
